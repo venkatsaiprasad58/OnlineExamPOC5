@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+body {
+	margin: 0;
+	padding: 0;
+	background-image: url(../image/ojas.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	font-family: 'Roboto', sans-serif;
+}
+
+label {
+	color: white;
+}
+
+.my-container {
+	margin: 18vh 0;
+}
+
+.my-form-col {
+	box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+.my-form {
+	padding: 10% 25px;
+}
+
+.my-login-msg a {
+	color: red;
+	text-decoration: none;
+}
+
+.my-login-msg a:hover {
+	color: white;
+}
